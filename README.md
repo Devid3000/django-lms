@@ -57,7 +57,7 @@ If you would like to contribute, simply begin by implementing one from the list 
 - Clone the repo with
 
 ```bash
-git clone [https://github.com/adilmohak/django-lms.git](https://github.com/Devid3000/django-lms.git)
+git clone https://github.com/adilmohak/django-lms.git
 ```
 
 - Create and activate a python virtual environment
