@@ -63,7 +63,7 @@ git clone https://github.com/adilmohak/django-lms.git
 - Create and activate a python virtual environment
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 - Create `.env` file inside the root directory
@@ -71,15 +71,15 @@ pip install -r requirements.txt
 - Copy and paste everything in the `.env.example` file into the `.env` file. Don't forget to customize the variable values
 
 ```bash
-python manage.py migrate
+pytho3n manage.py migrate
 ```
 
 ```bash
-python manage.py createsuperuser
+python3 manage.py createsuperuser
 ```
 
 ```bash
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 Last but not least, go to this address http://127.0.0.1:8000
